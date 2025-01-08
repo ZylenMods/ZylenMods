@@ -21,6 +21,6 @@
   <a href="https://youtube.com/@chzeeoneofc"><img src="https://img.shields.io/badge/YouTube-Zeeone Ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/zeeoneofc" /><br>
   <a name=ZeeoneOfc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://www.youtube.com/channel/UCI3Y4qWtkZQlhBq5UQhhmew"><img src="https://img.shields.io/youtube/channel/subscribers/UCI3Y4qWtkZQlhBq5UQhhmew?style=social" /> <br>
+  <a href="[https://www.youtube.com/channel/UCI3Y4qWtkZQlhBq5UQhhmew](https://youtube.com/@zylenmods?si=4Ouerxk50Lwp5OZd)"><img src="https://img.shields.io/youtube/channel/subscribers/UCI3Y4qWtkZQlhBq5UQhhmew?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=zeeoneofficial&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeoneofficial&color=green&style=flat-square&label=Profile+View"></a>
 </p>
