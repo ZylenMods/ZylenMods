@@ -24,3 +24,11 @@
   <a href="https://youtube.com/@zylenmods?si=9kYFUlIbHnxtsZ8r"><img src="https://img.shields.io/youtube/channel/subscribers/UCI3Y4qWtkZQlhBq5UQhhmew?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=ZylenMods&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ZylenMods&color=green&style=flat-square&label=Profile+View"></a>
 </p>
+
+------
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
