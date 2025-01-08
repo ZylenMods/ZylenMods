@@ -38,5 +38,5 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/zeeoneofficial"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/zeeoneofficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofficial&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/ZylenMods"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ZylenMods"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofficial&theme=radical&layout=compact"></a></p> 
