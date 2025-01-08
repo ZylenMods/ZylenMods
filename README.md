@@ -10,13 +10,16 @@
 - 👨‍💻 I am not programmer
 
 </p>
-l
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZylenMods&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZylenMods&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZylenMods&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ZylenMods&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+------
+### Connect with me ☎️
+<p align="center">
+  <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/62887435047326"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/zeeoneofc"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/zeeoneofc"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://youtube.com/@chzeeoneofc"><img src="https://img.shields.io/badge/YouTube-Zeeone Ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/zeeoneofc" /><br>
+  <a name=ZeeoneOfc&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://www.youtube.com/channel/UCI3Y4qWtkZQlhBq5UQhhmew"><img src="https://img.shields.io/youtube/channel/subscribers/UCI3Y4qWtkZQlhBq5UQhhmew?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=zeeoneofficial&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeoneofficial&color=green&style=flat-square&label=Profile+View"></a>
+</p>
