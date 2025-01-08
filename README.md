@@ -15,12 +15,8 @@
 ## 🌐 Socials:
 <p align="center">
 <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a href="https://tiktok.com/@zylendev" style="text-decoration: none; display: inline-flex; align-items: center; background-color: #000; color: white; padding: 10px 15px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 14px;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" fill="none" width="24" height="24" style="margin-right: 8px;">
-    <path d="M21.5 0H14.5V24C14.5 26.8 12.2 29 9.5 29C6.8 29 4.5 26.8 4.5 24C4.5 21.2 6.8 19 9.5 19C10.3 19 11.1 19.2 11.8 19.5V12.6C11 12.4 10.3 12.2 9.5 12.2C4.3 12.2 0.5 16 0.5 21.2C0.5 26.4 4.3 30.2 9.5 30.2C14.7 30.2 18.5 26.4 18.5 21.2V7.5C20.5 9 23.2 9.9 26 9.9V2.2C24.5 2.2 23 1.6 21.5 0Z" fill="#00F2EA"/>
-    <path d="M26 2.2V9.9C23.2 9.9 20.5 9 18.5 7.5V21.2C18.5 26.4 14.7 30.2 9.5 30.2C4.3 30.2 0.5 26.4 0.5 21.2C0.5 16 4.3 12.2 9.5 12.2C10.3 12.2 11 12.4 11.8 12.6V19.5C11.1 19.2 10.3 19 9.5 19C6.8 19 4.5 21.2 4.5 24C4.5 26.8 6.8 29 9.5 29C12.2 29 14.5 26.8 14.5 24V0H21.5C23 1.6 24.5 2.2 26 2.2Z" fill="#FF0050"/>
-  </svg>
-  TikTok
+<a href="https://tiktok.com/@zylendev">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=00F2EA" alt="TikTok">
 </a>
   
 ------
