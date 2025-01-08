@@ -39,4 +39,4 @@
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/ZylenMods"><img src="https://github-readme-stats.vercel.app/api?username=ZylenMods&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ZylenMods"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofficial&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/ZylenMods"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZylenMods&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></a></p> 
