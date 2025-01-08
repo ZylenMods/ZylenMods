@@ -15,7 +15,7 @@
 ## 🌐 Socials:
 <p align="center">
 <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/TikTok-E4405F?style=for-the-badge&logo=TikTok&logoColor=white"/>
+<a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/TikTok-23000000?style=for-the-badge&logo=TikTok&logoColor=white"/>
 
 ------
 
