@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://tiktok.com/@zylendev">
-  <img src="https://img.shields.io/badge/TikTok-ff0050?style=for-the-badge&logo=TikTok&logoColor=white&labelColor=00f2ea"/>
+  <img src="https://img.shields.io/badge/TikTok-00f2ea?style=for-the-badge&logo=TikTok&logoColor=ff0050&labelColor=000000"/>
 </a>
 
 ------
