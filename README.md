@@ -10,6 +10,9 @@
 - 👨‍💻 I am not programmer
 
 </p>
+------
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=BLUE&size=30&lines=Hey!+It's+zylen!;I'm+a+Junior+Programmer...;I'm+also+learn+Web+Developer;And+I'm+a+from+Indonesia)](https://git.io/typing-svg)
 
 ------
 ## 🌐 Socials:
